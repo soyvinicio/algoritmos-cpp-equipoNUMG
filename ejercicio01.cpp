@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 void main() {
-	cout << "hola mundo";
-	cout << "adios mundo"; 
-	
+	cout << "Menu Calculadora" << endl;
+	cout << "1. Suma" << endl;
+
 }
